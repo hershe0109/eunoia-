@@ -1,1 +1,1 @@
-# eunoia-
+# eunoia-  meaning "beautiful thinking" or "goodwill," is a web-based platform for efficient event organization. Built with HTML, CSS, Java and SQL, it simplifies event management, tracks registrations, and ensures seamless coordination with a user-friendly interface and secure backend.
